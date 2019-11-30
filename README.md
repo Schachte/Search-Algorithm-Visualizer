@@ -1,4 +1,4 @@
-# Custom Search Algorithm Visualization Tool
+# Search Algorithm Visualization Tool
 
 #### How To Run:
 `git clone https://github.com/Schachte/Search-Algorithm-Visualizer.git && cd Search-Algorithm-Visualizer && yarn start`
