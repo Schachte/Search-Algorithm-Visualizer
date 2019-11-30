@@ -1,8 +1,13 @@
-### Custom Search Algorithm Visualization Tool
+# Custom Search Algorithm Visualization Tool
+
+#### How To Run:
+`git clone https://github.com/Schachte/Search-Algorithm-Visualizer.git && cd Search-Algorithm-Visualizer && yarn start`
+
+#### Demo:
 
 ![](https://github.com/Schachte/Search-Algorithm-Visualizer/blob/master/giphy.gif?raw=true)
 
-Currently Supported:
+#### Currently Supported:
 
 - Dijkstra
 - Depth-First Search
